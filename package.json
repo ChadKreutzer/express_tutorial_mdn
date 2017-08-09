@@ -7,10 +7,12 @@
     "devstart": "nodemon ./bin/ww"
   },
   "dependencies": {
+    "async": "^2.5.0",
     "body-parser": "~1.17.1",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.3",
     "express": "~4.15.2",
+    "moment": "^2.18.1",
     "mongoose": "^4.11.6",
     "morgan": "~1.8.1",
     "pug": "~2.0.0-beta11",
